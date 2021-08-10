@@ -1,8 +1,8 @@
-<!-- ## What's included in MaterialPro Angular 10 Lite [versions 7,8,9, and 10] -->
+<!-- ## What's included in MaterialPro Angular 12 Lite [versions 7,8,9, and 10,11] -->
 
 <!-- Heading of Template -->
 <h1>
-  <a href="https://wrappixel.com/demos/angular-admin-templates/material-angular-lite/angular/dashboard">Material Pro Angular 10 Admin Lite</a>
+  <a href="https://wrappixel.com/demos/angular-admin-templates/material-angular-lite/angular/dashboard">Material Pro Angular 12 Admin Lite</a>
 </h1>
 
 <!-- Main image of Template -->
@@ -10,13 +10,13 @@
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/materialpro-angular-lite-y.jpg" />
 </a>
 
-MaterialPro Angular 10 Lite is a Google Material Design base template that has a clean design visuals. The design is based on Google's Material principles and the template has some handy user interface elements and page templates you need to develop your own dashboard in a easy and hassle-free manner.
+MaterialPro Angular 12 Lite is a Google Material Design base template that has a clean design visuals. The design is based on Google's Material principles and the template has some handy user interface elements and page templates you need to develop your own dashboard in a easy and hassle-free manner.
 
 <!-- <h4><a href="https://wrappixel.com/demos/angular-admin-templates/material-angular-lite/angular/dashboard">Free Version Demo Link</a></h4> -->
 
 ## What do I get bundled with Free Version?
 
-The free version MaterialPro Angular 10 Lite provides you with a library consisting of:
+The free version MaterialPro Angular 12 Lite provides you with a library consisting of:
 
 <ul>
 <li>SaSS Base CSS</li>
@@ -110,7 +110,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 <h2>Licensing</h2>
 <ul>
   <li>
-    <p>Copyright 2020 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
+    <p>Copyright 2021 Wrappixel (<a href="https://www.wrappixel.com/" rel="nofollow">https://www.wrappixel.com/</a>)</p>
   </li>
   <li>
     <p>Licensed under MIT (<a href="https://www.wrappixel.com/license/">https://www.wrappixel.com/license/</a>)</p>
@@ -120,7 +120,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <!-- ## License -->
 
-<!-- MaterialPro Angular 10 Lite Template is released under MIT license. MaterialPro Angular Lite is Free angular 10 template designed and developed by WrapPixel. Please feel free to download it and use it for your personal as well as commercial projects. Also do not forgot to share it with your friends and colleagues. -->
+<!-- MaterialPro Angular 12 Lite Template is released under MIT license. MaterialPro Angular Lite is Free angular 12 template designed and developed by WrapPixel. Please feel free to download it and use it for your personal as well as commercial projects. Also do not forgot to share it with your friends and colleagues. -->
 
 ## Why should I upgrade to the pro version?
 
@@ -133,9 +133,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 <!-- <h4><a href="https://www.wrappixel.com/templates/materialpro-angular-dashboard/">View Details</a> | <a href="https://www.wrappixel.com/demos/angular-admin-templates/material-angular/material/dashboards/dashboard1">Live Demo</a></h4> -->
 
-The pro version of MaterialPro Angular 10 template incorporates over 250+ page templates along with four distinctive colour scheme, 25+ angular elements, six unique demos, and multiple user-interface components.
+The pro version of MaterialPro Angular 12 template incorporates over 250+ page templates along with four distinctive colour scheme, 25+ angular elements, six unique demos, and multiple user-interface components.
 
-The key features of WrapPixel's MaterialPro Angular 10 pro version include:
+The key features of WrapPixel's MaterialPro Angular 12 pro version include:
 
 4 Colour Schemes - More than four predefined colour schemes.<br><br>
 30+ Essential User Interface Elements - Dashboard admin pack more than 30 essential angular components.<br><br>
